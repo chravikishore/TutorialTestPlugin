@@ -1,0 +1,9 @@
+{
+  "name": "Tutorial Test Plugin",
+  "version": "${FBSTRING_PLUGIN_VERSION}",
+  "description": "Test plugin for the tutorial",
+
+	"plugins": [
+    { "path": "npTutorialTestPlugin.dll", "public": true }
+  ]
+}
